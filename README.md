@@ -82,4 +82,4 @@ Reducing RMSE from 8% to 1% could lead to $240M in avoided misallocations, with 
 
 ## 📫 Contact
 For questions or collaborations:
-- **Prabhu Shankar** – [LinkedIn](https://www.linkedin.com/in/prabhushankar)
+- **Prabhu Shankar** – [LinkedIn](https://www.linkedin.com/in/prabhu-shankar0101/)
