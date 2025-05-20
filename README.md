@@ -11,7 +11,7 @@ To identify key drivers of Medicaid drug reimbursements and assess whether dispa
 - Raheela Charania
 - Rajivini Tiruveedhula  
 Faculty Advisor: Dr. Myriam Quispe Agnoli  
-Part of the Master of Science in Business Analytics program at Mercer University (Stetson-Hatcher School of Business)
+Part of the Master of Science in Data Analytics program at Mercer University (Stetson-Hatcher School)
 
 ---
 
